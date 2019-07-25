@@ -136,6 +136,18 @@
 		}
 	}
 
+	.work-description {
+		text-align: justify;
+
+		a {
+		 	color: $secondary-color;
+		 }
+	}
+
+	.work-lang {
+		color: $secondary-color;
+	}
+
 }
 
 /*contact page*/
